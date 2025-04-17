@@ -8,7 +8,7 @@
   "ssl": {
     "cert": "./cert.pem",
     "key": "./key.pem",
-    "sni": "www.youtube.com"
+    "sni": "www.cloudflare.com"
   },
   "websocket": {
     "enabled": false
