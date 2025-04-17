@@ -6,8 +6,8 @@
     "MYgogpuppy"
   ],
   "ssl": {
-    "cert": "cert.pem",
-    "key": "key.pem",
+    "cert": "./cert.pem",
+    "key": "./key.pem",
     "sni": "www.youtube.com"
   }
 }
