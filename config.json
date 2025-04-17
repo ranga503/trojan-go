@@ -9,5 +9,17 @@
     "cert": "./cert.pem",
     "key": "./key.pem",
     "sni": "www.youtube.com"
+  },
+  "websocket": {
+    "enabled": false
+  },
+  "router": {
+    "enabled": false
+  },
+  "forward_proxy": {
+    "enabled": false
+  },
+  "fallback": {
+    "enabled": false
   }
 }
