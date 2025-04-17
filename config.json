@@ -18,8 +18,5 @@
   },
   "forward_proxy": {
     "enabled": false
-  },
-  "fallback": {
-    "enabled": false
   }
 }
